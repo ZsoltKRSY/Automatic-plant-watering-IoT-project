@@ -1,4 +1,4 @@
-# Automatic plant watering IoT project (Arduino)
+# Automatic Plant watering IoT Project (Arduino)
 ## Description
 This project consists of automatically watering a plant by checking the soil moisture level at certain time intervals.\
 It also features a simple web interface to display information about temperature, air humidity, soil moisture level, and time since last watering. We can also set the interval at which the soil is checked.
